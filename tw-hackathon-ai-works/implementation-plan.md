@@ -53,3 +53,7 @@ To impress judges or stakeholders, don't just show a finished dashboard. Show th
 2.  **The Insight:** Click "Analyze" and watch the **Vibe Heatmap** spike into the red. 
 3.  **The Resolution:** Use the AI Judge to point out the bottleneck. 
 4.  **The Closure:** Click one button to turn the "stress" into a Jira ticket titled *"Optimize Tuesday Deployment Pipeline."*
+
+### Next
+
+[AI Analysis](./AI-analysis.md)
